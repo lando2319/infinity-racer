@@ -28,3 +28,15 @@ include_in_header: true
 <h1>Level 7</h1>
 <img id="level7" class="level-img" src="/assets/level7.png" alt="Level 7">
 <p>
+<h1>Level 8</h1>
+<img id="level8" class="level-img" src="/assets/level8.png" alt="Level 8">
+<p>
+<h1>Level 9</h1>
+<img id="level9" class="level-img" src="/assets/level9.png" alt="Level 9">
+<p>
+<h1>Level 10</h1>
+<img id="level10" class="level-img" src="/assets/level10.png" alt="Level 10">
+<p>
+<h1>Level 11</h1>
+<img id="level11" class="level-img" src="/assets/level11.png" alt="Level 11">
+<p>
