@@ -12,7 +12,7 @@ include_in_header: false
 
 <p>Craps Education, LLC ("us", "we", or "our") operates the Infinity Racer mobile application (the "Service").</p>
 
-<p>We do not collect user data</p>
+<p>We collect the device model identifier when a level is beaten. For an iPhone 14 Pro Max, the model identifier is, "iPhone15,3". We collect this information in order to further validate that levels are beatable.</p>
 
 <h2>Changes To This Privacy Policy</h2>
 <p>We may update our Privacy Policy from time to time. We will notify you of any changes by posting the new Privacy Policy on this page.</p>
